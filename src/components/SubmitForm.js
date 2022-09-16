@@ -5,6 +5,7 @@ import Col from 'react-bootstrap/Col';
 import "./component.css"
 
 function SubmitForm({handleSubmit}){
+  
     return (
       <Row>
         <Col>

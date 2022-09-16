@@ -44,7 +44,9 @@ function App() {
       category: e.target["category"].value,
       rating: e.target["rating"].value
     })
-    })}
+    })
+    
+    }
   };
   
 

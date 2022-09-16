@@ -55,22 +55,6 @@
       "restaurant": "Luke's Lobster Fidi",
       "category": "Lunch",
       "rating": 8
-    },
-    {
-      "id": 8,
-      "name": "Little Green",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "restaurant": "",
-      "category": "",
-      "rating": 8
-    },
-    {
-      "id": "c037807-f68b-fad0-21cd-37f2cbabaca",
-      "image": "",
-      "name": "",
-      "restaurant": "",
-      "category": "Breakfast",
-      "rating": "1"
-    }
+    }    
   ]
 }

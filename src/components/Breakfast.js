@@ -7,7 +7,7 @@ function Breakfast({foodList}){
         return food.category.toLowerCase() === "breakfast"        
         })
     const breakfast = foods.map(food =>{
-        return <Food key={food.id} food={food}/>
+        return <Food  key={food.id} food={food}/>
     })
     
     return (

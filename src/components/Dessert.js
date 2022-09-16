@@ -1,7 +1,7 @@
 import Food from './Food'
 import Row from 'react-bootstrap/Row';
 
-function Dessert({foodList}){
+function Dessert({foodList, }){
     // console.log(foodList)
     const foods = foodList.filter(food => {
         return food.category.toLowerCase() === "dessert"        
